@@ -1,0 +1,24 @@
+<resources>
+
+    <!--strings login layout-->
+    <string name="img_DiviHome">Imagen de divi en la vista de login</string>
+    <string name="lb_TextoBienvenida">Bienvenido a DIVI</string>
+    <string name="btn_Login">Entrar</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="et_NombreUsuario">Nombre de Usuario</string>
+    <string name="et_Contraseña">Contraseña</string>
+    <!--end strings-->
+
+    <!--string nombre de la aplicacion-->
+    <string name="app_name">Divi</string>
+    <!--fin string-->
+
+    <!--string nombre del mapa -->
+    <string name="title_activity_home">Ubicación Actual</string>
+    <!--fin string-->
+
+    <!--string menu toolbar-->
+    <string name="opt_logOut">Cerrar Sesión</string>
+    <!--fin menu-->
+
+</resources>
